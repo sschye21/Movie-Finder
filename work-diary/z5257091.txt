@@ -1,0 +1,74 @@
+Week 1
+
+Group formed
+Created Jira, Discord server (for voice calls), facebook group (for messaging)
+Appointed Steven as Scrum master
+Pointed out that I preferred backend, Haley, Steven and one other group memeber preferred front end
+Discussed what backend language is preferred
+Since we concluded that sql was going to be used, we decided on python (for psycopg2)
+Have not delegated tasks yet
+Have not decided when the next meeting is
+
+Week 2
+
+Made a google docs to list out tasks
+Summarised project brief into 10 objects, 2 of which are novel
+Decided on the sprint structure (3 sprints)
+Brainstormed side objectives
+Delegated tasks
+User stories
+Storyboards
+User Interface
+Background
+Flow diagrams
+System architecture
+TO BE COMPLETED by 16th
+Changed backend to java with spring boot
+
+Week 3
+
+Outlined user types
+Outlined which frameworks and libraries may be used
+Planned next meeting and things to complete by then (system architecture, background, flow diagram, etc.)
+Discussed user stories and objectives
+Completed user stories, some of user interface, background, storyboards
+System architecture not completed, to be done soon
+
+Week 4
+
+Set up postgreSQL database
+Set up backend files
+Connected backend to the database via JDBC
+Implemented login, register and delete account methods
+Successfully sent a request from the frontend to the backend
+Movie search to be completed
+
+Week 5
+Delegated tasks, received profile and wishlist tasks
+Movie search delegated to another group member
+
+Week 6
+Implemented getprofile and update profile, returns user details
+Refactored backend, to return proper error messages
+Pushed more responsibility into the userService fron userController
+UserController acts as the interface, userService as the implementation
+Profile will return wishlist later as well
+
+Week 7
+Adding to, removing from wishlist is implemented
+Profile now returns wishlist
+Started to look into movie recommendation systems
+To be implemented in the following weeks
+
+Week 8
+Researched on movie recommendation systems
+Researched on collaborative filters and content based filteres
+
+Week 9
+Implemented movie recommendation system using collaborative filter and dummy data
+Have to do popular movies and similar movies
+
+Week 10
+Implemented popular movies
+Implemented similar movies
+Implemented blocking and unblocking users

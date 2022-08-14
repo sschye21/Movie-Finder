@@ -1,0 +1,50 @@
+~ Xuanen (Cheryl) Ouyang z5255302 ~
+
+Week 1
+Our group was formed and I joined the group's Jira.
+We discussed the project that we wanted to build and decided amongst ourselves who would work on the frontend and who would work on the backend.
+We began brainstorming our system architecture, coming up with a few ideas for the languages and libraries we would use. 
+
+Week 2
+We began discussing the proposal during this week's meeting and set a soft deadline for next week's Thurday tutorial to leave us ample time to edit and finalise our work.
+The requirements for the proposal were delegated between us and we decided on a 3 sprint structure to carry us through the project.
+I was given the task of writing up a few user stories.
+
+Week 3
+I completed the user stories I was delegated.
+I also created a flow diagram by myself to visually represent the path of a user through the web app.
+
+Week 4
+We completed and submitted our proposal.
+Continued research into the movie database api we would integrate into our app.
+I was assigned the search function ticket and I began building a basic structure for the search bar.
+
+Week 5
+I continued working on creating the search bar as well as the search results page, and used a dummy database to build a basic template of the results.
+I ran into some issues with Tailwind CSS where all the styling disappeared from my branch so I decided to use Material UI after researching the compatibility of two different css libraries.
+We presented our first demo during the tutorial and held our first retro after class.
+I began working on the filter bar for sprint 2. 
+
+Week 6
+Completed the frontend for the search bar and focused on building the individual movie cover component for the search results page.
+I continued working on the filter bar, finishing up most of the design components.
+We connected the backend search function to the frontend search bar and I made note of all the bugs that came up. 
+
+Week 7
+I fixed the bugs that came with connecting the backend search function and kept a record of all new bugs that I ran into while testing different search parameters.
+I completed the frontend for the filter bar, choosing to filter by genre, director, year and adding a sort by option.
+I began working on a navigation bar that matched with the Figma design created by a member of the group.
+
+Week 8
+I continued working on the navigation bar, integrating it with the search bar and adding profile and logout buttons.
+I started researching potential third party packages to achieve a carousel display for the homepage, specifically displaying the popular and recommended movies.
+Began experimenting with different carousel packages to see which would suit our needs.
+
+Week 9
+I found an npm package for carousels that allowed us to display multiple movies at once and loop through the results.
+I made the search and filter bars, and the carousels mobile responsive.
+I connected the filtering of search results, popular and recommended movies to the backend via the endpoint provided by another member of the team.
+
+Week 10
+We worked on the report and presentation for the final demo.
+We fixed a few bugs that came up during our manual testing of components. 

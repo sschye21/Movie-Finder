@@ -1,0 +1,29 @@
+week 1
+During our week 1 meeting, our group decided on how we will communicate to each other (i.e. through Discord), decide on which project to choose and a plan for our proposal. We also setup our Github classroom and Jira boards in addition to deciding the roles ofof each team member. 
+
+week 2
+During week 2, Darour group had a meeting to decide how we will work on the proposal. After discussing, Darrell and I was tasked with the system design architecture. 
+
+week 3
+During week 3, Darrell and I further discussed the languages/frameworks/libraries that we will use for our program and decided to split the system design section of our proposal. I worked on the system design diagram and the presentation layer. We finished during week 3 and added our findings into the proposal document. 
+
+week 4 
+During week 4, Darrell and I set up the postgreSQL database and initialised a simple spring boot application. We connected backend to the database and we are now able to send requests to the external API. 
+
+week 5 
+During week 5, I worked on providing the movie details to the frontend in the format that they would like and also worked on movie search and filter. I communicated with Steven who was working on the frontend for movie details page, and we worked together to find the best solution. I changed our external API in the middle beacuse of its slow responses. 
+
+week 6 
+During week 6, I connected movies to the database so it would be faster and finished movie details page. I was working on movie search and was still facing issues in regards to optimising our system. 
+
+week 7 
+During week 7, I worked on the movie search for genre, year and name. These were all separate API calls to moviesminidatabase. Faced many bugs and optimising issues again. Decided to implement pagination so only a set numnber of results can come to the backend at once to avoid overloading the backend and frontend. 
+
+week 8 
+During week 8, I finished the search for genre, year and name and started working on the filter for cast which was difficult since this would require more than one external API call. After this, I started working on the backend for reviews and ratings. 
+
+week 9
+During week 9, I finished reviews and ratings. I worked with Steven from frontend to do this and it was completed. Added additional fields such as user, time and we faced issues of infinite recursion in the backend but this was ultimately resolved. I also finished the filter for genre, year and director as well as the search for cast. 
+
+week 10
+During week 10, we were optimising the backend and completing code cleanup. Also communicated with the frontend to fix any issues or bugs which arose. Also practiced for our demo. 
