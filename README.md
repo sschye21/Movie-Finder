@@ -1,5 +1,3 @@
-# capstone-project-3900-h18a-calmbeetlesdancing
-
 # Movie Finder
 
 ‘FindAMovie’ allows users to come together in an online community to share their opinions and thoughts on any movie. 
