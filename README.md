@@ -1,5 +1,7 @@
 # Movie Finder
 
+<img width="1024" alt="movie-finder" src="https://user-images.githubusercontent.com/89293557/185020628-9b5f31e5-6ac2-4c67-b5a7-792b424f3cc7.png">
+
 ‘FindAMovie’ allows users to come together in an online community to share their opinions and thoughts on any movie. 
 
 ## Setup
